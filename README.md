@@ -1,1 +1,3 @@
-# HTB_CTF
+# Volnaya News
+
+Print /flag.txt
